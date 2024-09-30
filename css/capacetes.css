@@ -1,0 +1,16 @@
+.home{
+    padding: 50px 850px;
+    background-color: red;
+    text-align: center;
+    text-decoration: none;
+    font-size: 70px;
+    color: black;
+}
+
+main div{
+    margin-top: 5%;
+}
+
+footer{
+    margin-top: 8%;
+}
